@@ -1,4 +1,8 @@
 # MATLAB-codes 
+DESCRIPTION:
+
+This repository contains a collection of MATLAB programs developed for various computational and data analysis tasks. The files are organized to cover a wide range of topics and applications in MATLAB, making them useful for learning, experimentation, and solving practical problems.
+
 Ques1.m
 
 Prompts the user to input a matrix manually. The script is designed to demonstrate or simplify matrix indexing and element access, which are essential MATLAB operations.
