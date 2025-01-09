@@ -2,6 +2,7 @@
 Ques1.m
 
 Prompts the user to input a matrix manually. The script is designed to demonstrate or simplify matrix indexing and element access, which are essential MATLAB operations.
+
 Ques2.m
 
 Sets up the environment and defines a range of x-values. This script likely prepares for plotting mathematical functions or performing computations over a defined range of inputs.
