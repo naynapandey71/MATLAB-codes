@@ -1,11 +1,15 @@
 # MATLAB-codes 
 Ques1.m
+
 Prompts the user to input a matrix manually. The script is designed to demonstrate or simplify matrix indexing and element access, which are essential MATLAB operations.
 Ques2.m
+
 Sets up the environment and defines a range of x-values. This script likely prepares for plotting mathematical functions or performing computations over a defined range of inputs.
 Ques3.m
+
 Reads the image cameraman.tif. The script is possibly intended for basic image operations like rotation, resizing, or pixel manipulation.
 Ques4.m
+
 Similar to other initialization scripts, it clears the environment. The script might involve further calculations or graphical output in subsequent lines.
 Ques5.m
 Another initialization script that clears the workspace. This script might involve subsequent operations on data or visualizations.
